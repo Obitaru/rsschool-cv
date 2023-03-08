@@ -1,2 +1,2 @@
-# rsschool-cv
-School repository
+
+My school repository
