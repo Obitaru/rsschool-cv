@@ -1,2 +1,1 @@
-# rsschool-cv
-School repository
+https://obitaru.github.io/rsschool-cv/cv
