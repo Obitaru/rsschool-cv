@@ -1,1 +1,1 @@
-https://obitaru.github.io/rsschool-cv/cv
+https://Obitaru.github.io/rsschool-cv/
